@@ -23,6 +23,17 @@ As a Business Intelligence and Analytics professional working with Power BI, SQL
 
 The content focuses on practical understanding rather than memorization and is designed to help candidates understand how Microsoft Fabric components work together in real-world analytics solutions.
 
+## Key Features
+
+* **✅ DP-600 Certification Study Guide**: Aligned directly with Microsoft skills measured domains.
+* **✅ Microsoft Fabric Architecture Reference**: Covers OneLake design principles, Multi-Engine SaaS layer, and data organization.
+* **✅ Lakehouse vs Warehouse Decision Framework**: A structured comparison to choose the right relational storage pattern.
+* **✅ Direct Lake Implementation Guidance**: Deep-dive on paging, memory limits, and avoiding silent fallbacks.
+* **✅ Semantic Model Design Best Practices**: Star schema creation, relationship directions, and memory footprint management.
+* **✅ DAX Optimization Notes**: Practical examples of CALCULATE, FILTER, time intelligence, and context transitions.
+* **✅ Security & Governance Reference**: Workspace permissions, RLS/OLS, data lineage, and certified data mesh domains.
+* **✅ Exam Revision Cheat Sheet**: Fast reference summary notes for exam-day preparation.
+
 ## Topics Covered
 
 ### OneLake
@@ -116,3 +127,14 @@ Power BI | Microsoft Fabric | SQL | Python | Data Analytics | Reporting Automati
 
 * **LinkedIn**: [https://linkedin.com/in/dattasable](https://linkedin.com/in/dattasable)
 * **Website**: [https://dattasable.com](https://dattasable.com)
+
+## Support the Project
+
+If this repository helps you prepare for DP-600:
+
+* ⭐ **Star the repository** to show your support
+* 🍴 **Fork and customize it** for your own study needs
+* 📢 **Share it** with other Microsoft Fabric learners
+* 💬 **Open an issue** for suggestions or improvements
+
+*Good luck with your DP-600 certification journey!*
